@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringWSprueba
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: EXCP0035
+Implementation-Vendor-Id: SpringWSprueba
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringWSprueba
+Created-By: Maven Integration for Eclipse
+
